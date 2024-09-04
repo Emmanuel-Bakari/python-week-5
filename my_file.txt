@@ -1,0 +1,6 @@
+Hello there.
+Here's a number: 42
+Welcome.
+Feel free.
+Dont be shy.
+Have a good day.
